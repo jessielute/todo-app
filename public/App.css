@@ -1,0 +1,58 @@
+.backgroundimg {
+  display:block;
+    position:absolute;
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+
+h1, h2, h3, p, button, input {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 14vw;
+}
+
+h2 {
+  font-size: 2.5vw;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5vw;
+}
+.App {
+  text-align: center;
+}
+
+.todo-container {
+  margin: 2vw auto 2vw auto;
+  width: 50vw;
+  border: 5px solid gold;
+  padding: 20px;
+
+}
+.button-container {
+  border-bottom: 0.10vw solid rgb(216, 211, 211);
+  text-align: left;
+  margin-bottom: 1vw;
+}
+
+
+.button {
+margin-right: 10%;
+margin-left: 2%;
+margin-bottom: 4%;
+outline: none;
+border-width: 0.05vw;
+border-radius: 0.25vw;
+border-style: solid;
+padding: 8px;
+color: gold;
+border-color: rgb(143, 230, 230);
+}
+
+.h1 {
+  font-family: 'Montserrat', sans-serif;
+}
